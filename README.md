@@ -10,7 +10,11 @@ To access, copy the repository in github, then use the git clone function in com
 
 ##Usage
 
+Link Below
 
+https://devbelle.github.io/Password-Generator-with-Prompts/
+
+![Screenshot](Password-Generator-Screenshot.png)
 
 ##Credits
 
